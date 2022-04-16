@@ -81,10 +81,9 @@ footer {
 
 table {
     color: white;
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 table, td, th {
